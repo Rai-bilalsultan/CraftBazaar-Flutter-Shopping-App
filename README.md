@@ -1,9 +1,16 @@
-# CraftBazaar-Flutter-Shopping-App
-CraftBazaar is a Flutter-based mobile shopping application designed for discovering and purchasing handcrafted products. The app follows clean architecture principles, ensuring a modular and scalable codebase. Provider is used for state management, making the shopping experience seamless and dynamic.
+# handicrafts_marketplace
 
-🚀 Features
-✅ Modern UI – Clean and visually appealing interface
-✅ Product Listing & Details – Browse handcrafted products with detailed descriptions
-✅ Cart Management – Add and remove items dynamically using Provider
-✅ State Management – Efficiently handles UI updates with Provider
-✅ Modular Code Structure – Organized for scalability and maintainability
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
